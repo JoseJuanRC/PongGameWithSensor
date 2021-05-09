@@ -80,6 +80,7 @@ A continuación se ve un ejemplo del juego:
 ## Referencias
 - [Sensor Sharp GP2D12](https://swanrobotics.com/projects/gp2d12_project/)
 
-Realizado por [José Juan Reyes Cabrera](https://github.com/JoseJuanRC)
-Realizado por [Samuel Arrocha Quevedo](https://github.com/Samuel-AQ)
-Realizado por [Anayara Moreno Merino](https://github.com/ana3311)
+## Realizado por 
+- [José Juan Reyes Cabrera](https://github.com/JoseJuanRC)
+- [Samuel Arrocha Quevedo](https://github.com/Samuel-AQ)
+- [Anayara Moreno Merino](https://github.com/ana3311)
