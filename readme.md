@@ -75,7 +75,7 @@ A continuación se ve un ejemplo del juego:
 - [Cortar sonidos](https://mp3cut.net/es/)
 - [Editar el readme.md](https://dillinger.io/)
 
-Realizado por 
+## Realizado por 
 - [José Juan Reyes Cabrera](https://github.com/JoseJuanRC)
 - [Samuel Arrocha Quevedo](https://github.com/Samuel-AQ)
 - [Anayara Moreno Merino](https://github.com/ana3311)
