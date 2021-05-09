@@ -63,7 +63,7 @@
 ## Resultado final
 A continuación se ve un ejemplo del juego:
 
-![Alt Text](https://raw.githubusercontent.com/JoseJuanRC/PongGame/master/JuegoPong.gif)
+![Alt Text](JuegoPong.gif)
 
 ## Sonidos utilizados
 - [Rebote](https://www.youtube.com/watch?v=o8YIN11w0wA&ab_channel=Sonidos%26EfectosHD)
