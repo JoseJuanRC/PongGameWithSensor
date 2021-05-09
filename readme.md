@@ -15,15 +15,17 @@
 - Movimiento con un sensor de distancia (Sharp GP2D12)
 
 ## Decisiones
+
 ###### Movimiento Inicial
 - En el eje X tendrá un incremento de 1,2 o 3 para cualquiera de los lados
 - En el eje Y tendrá un incremente de 1,2,3,4,5 o 6 para arriba o para abajo
 - Cada vez que se marca un punto se recalcula aleatoriamente estos incrementos
 
-###### Distancia del sensor para mover al jugador 1
-- Si la distancia es mayor a unos 30 cm el jugador permanecerá quieto
-- Si la distancia está entre 15 y 30 cm se moverá hacia arriba
-- Si la distancia es menor de unos 15 cm se moverá hacia abajo
+###### Sensor
+- Se mira la distancia con el sensor para mover al jugador 1
+    - Si la distancia es mayor a unos 30 cm el jugador permanecerá quieto
+    - Si la distancia está entre 15 y 30 cm se moverá hacia arriba
+    - Si la distancia es menor de unos 15 cm se moverá hacia abajo
 
 ###### Jugadores
 - Ambos jugadores estarán a una distancia de 50 unidades con respecto a su lado más cercano en el eje X. Con respecto al eje Y estarán centrados
@@ -61,7 +63,7 @@
 ## Resultado final
 A continuación se ve un ejemplo del juego:
 
-![Alt Text](JuegoPong.gif)
+![Alt Text](https://raw.githubusercontent.com/JoseJuanRC/PongGame/master/JuegoPong.gif)
 
 ## Sonidos utilizados
 - [Rebote](https://www.youtube.com/watch?v=o8YIN11w0wA&ab_channel=Sonidos%26EfectosHD)
@@ -75,7 +77,9 @@ A continuación se ve un ejemplo del juego:
 - [Cortar sonidos](https://mp3cut.net/es/)
 - [Editar el readme.md](https://dillinger.io/)
 
-## Realizado por 
-- [José Juan Reyes Cabrera](https://github.com/JoseJuanRC)
-- [Samuel Arrocha Quevedo](https://github.com/Samuel-AQ)
-- [Anayara Moreno Merino](https://github.com/ana3311)
+## Referencias
+- [Sensor Sharp GP2D12](https://swanrobotics.com/projects/gp2d12_project/)
+
+Realizado por [José Juan Reyes Cabrera](https://github.com/JoseJuanRC)
+Realizado por [Samuel Arrocha Quevedo](https://github.com/Samuel-AQ)
+Realizado por [Anayara Moreno Merino](https://github.com/ana3311)
