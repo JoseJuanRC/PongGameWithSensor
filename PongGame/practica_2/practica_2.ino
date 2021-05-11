@@ -11,5 +11,5 @@ void loop() {
   fltSensorCalc = (6787.0 / (intSensorResult - 3.0)) - 4.0; 
   
   Serial.println(fltSensorCalc); 
-  delay(100);
+  delay(25);
 }
